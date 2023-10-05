@@ -1,0 +1,23 @@
+Computational_Linguistics
+
+Final Report Outline:
+
+1. Introduction, 
+Data Sources and Methods, 
+Results, 
+Discussion of the Results, 
+Conclusion
+
+Heat Map analysis
+
+1. Depth (PPT)
+2. Depth + Breadth (PPT)
+3. Either of the ends -- Gujarati and Malayalam
+4. Kannada-Gujarati, and Kannada-Telugu
+5. Malayalam Gujarati
+6. Brahmi-Nandinagari manchi talk
+
+Odd ones out
+devanagari and gujarati -- direct descendant (partially matching)
+devanagari modi -- direct descendant (partially matching)
+gujarati and mode -- siblings (not matching)
